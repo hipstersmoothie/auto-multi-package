@@ -1,11 +1,8 @@
 {
   "name": "auto-test-independent",
   "private": true,
-  "description": ".",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
-  "license": "MIT",
   "repository": "hipstersmoothie/auto-multi-package",
-  "main": "index.js",
   "workspaces": [
     "packages/*"
   ],

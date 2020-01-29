@@ -3,7 +3,7 @@
   "version": "1.0.9",
   "description": ".......",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
-  "repository": "hipstersmoothie/auto-test-independent",
+  "repository": "hipstersmoothie/auto-multi-package",
   "main": "index.js",
   "license": "MIT",
   "publishConfig": {
