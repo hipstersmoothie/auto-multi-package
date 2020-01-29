@@ -1,0 +1,34 @@
+{
+  "name": "auto-test-independent",
+  "private": true,
+  "description": ".",
+  "author": "Andrew Lisowski <lisowski54@gmail.com>",
+  "license": "MIT",
+  "repository": "hipstersmoothie/auto-multi-package",
+  "main": "index.js",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "release": "auto shipit"
+  },
+  "devDependencies": {
+    "auto": "^9.5.0"
+  },
+  "auto": {
+    "packages": [
+      {
+        "target": "packages/api",
+        "plugins": [
+          "npm"
+        ]
+      },
+      {
+        "target": "packages/utils",
+        "plugins": [
+          "npm"
+        ]
+      }
+    ]
+  }
+}
