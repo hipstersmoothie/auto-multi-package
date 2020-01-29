@@ -2,6 +2,19 @@
 
 #### ⚠️  Pushed to master
 
+- more updates  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- update utils  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
+# v1.0.10 (Tue Jan 28 2020)
+
+#### ⚠️  Pushed to master
+
 - update utils  ([@hipstersmoothie](https://github.com/hipstersmoothie))
 
 #### Authors: 1
