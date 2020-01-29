@@ -1,3 +1,16 @@
+# v1.0.10 (Tue Jan 28 2020)
+
+#### ⚠️  Pushed to master
+
+- fix repos  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+- edit utils  ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+#### Authors: 1
+
+- Andrew Lisowski ([@hipstersmoothie](https://github.com/hipstersmoothie))
+
+---
+
 # v1.0.9 (Tue Jan 28 2020)
 
 #### 🐛  Bug Fix
