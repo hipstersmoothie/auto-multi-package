@@ -1,7 +1,7 @@
 {
   "name": "@autorelease/test-multi-package-utils",
   "version": "1.1.1",
-  "description": ".........",
+  "description": "",
   "author": "Andrew Lisowski <lisowski54@gmail.com>",
   "repository": "hipstersmoothie/auto-multi-package",
   "main": "index.js",
